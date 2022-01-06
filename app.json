@@ -8,16 +8,16 @@
             "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/kkstone/xrayku/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/kkstone/heroku-pymath/blob/master/etc/CADDYIndexPage.md",
             "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/kkstone/xrayku/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/kkstone/heroku-pymath/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/kkstone/xrayku/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/kkstone/heroku-pymath/master/etc/xray.json"
         }
     },
     "website": "https://github.com/kkstone/xrayku",
